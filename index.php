@@ -8,7 +8,7 @@ if (!isset($_SESSION['login'])) {
             <div class="row">
                 <div class="col-lg-8 offset-lg-2">
                     <div class="home-wrapper text-center text-light">
-                        <p class="text-light">Social Media Marketing</p>
+                        <p class="text-light">Zenix Store</p>
                         <div class="text-light">
                             <h1 class="text-light" style="margin: 20px 0;"><?php echo $config['web']['short_title'] ?> - Pusat SMM Panel indonesia</h1>
                         </div>
